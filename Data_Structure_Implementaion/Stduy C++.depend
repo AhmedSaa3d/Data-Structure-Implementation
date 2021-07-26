@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1621438709 source:e:\courses\stduy c++\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+	<list>
+	<iterator>
+
+1627312511 source:e:\courses\data_structure_implementaion\main.cpp
+	<iostream>
+	"mBST.h"
+	"mDequeue.h"
+	"mLL.h"
+	"mStack.h"
+
+1620090807 e:\courses\data_structure_implementaion\include\mbst.h
+	<iostream>
+	<queue>
+
+1627332875 e:\courses\data_structure_implementaion\include\mdequeue.h
+	<iostream>
+	<stdlib.h>
+
+1620140189 e:\courses\data_structure_implementaion\include\mll.h
+	<iostream>
+	<stdlib.h>
+
+1620150030 e:\courses\data_structure_implementaion\include\mstack.h
+	<iostream>
+	<stdlib.h>
+	<assert.h>
+
